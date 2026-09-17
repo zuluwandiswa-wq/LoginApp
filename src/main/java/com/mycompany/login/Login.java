@@ -24,7 +24,12 @@ public class Login {
         this.lastName = lastName;
     }
 
-    // 3. Check Username Method
+    /**
+ * Checks if the username contains an underscore and is no more than 5 characters.
+ * @param username The username entered by the user.
+ * @return true if valid, false otherwise.
+ */
+// 3. Check Username Method
     public boolean checkUserName(String username) {
         // Must contain an underscore and be 5 characters or less
         if (username.contains("_") && username.length() <= 5) {
