@@ -1,0 +1,4 @@
+Testing Notes:
+- Ran JUnit tests in NetBeans.
+- All 12 tests passed successfully (100%).
+- Tests cover username, password, cell phone, register, and login methods.
