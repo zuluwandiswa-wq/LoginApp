@@ -1,0 +1,4 @@
+How to run this application:
+1. Open the project in NetBeans.
+2. Run Main.java to see the registration and login demo.
+3. Run LoginTest.java to verify all unit tests pass.
