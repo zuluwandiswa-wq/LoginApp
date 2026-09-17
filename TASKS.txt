@@ -1,0 +1,6 @@
+Task List for Part 1:
+- [x] Create Login class
+- [x] Implement username validation
+- [x] Implement password validation
+- [x] Implement cell phone validation
+- [x] Create unit tests
