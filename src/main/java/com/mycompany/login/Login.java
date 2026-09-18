@@ -7,7 +7,7 @@ package com.mycompany.login;
 
 /**
  *
- * @author zuluw
+ * @author zuluwandiswa
  */
 public class Login {
 
@@ -49,7 +49,8 @@ public class Login {
     // 5. Check Cell Phone Method
     public boolean checkCellPhoneNumber(String cellNumber) {
         // Regex: Starts with +27, followed by exactly 9 digits
-        // Reference: Standard South African phone number formats (Regex101/StackOverflow)
+        // Reference: Adapted from "Validate Phone Numbers with Country Code" 
+         // Available at: https://www.geeksforgeeks.org/dsa/validate-phone-numbers-with-country-code-extension-using-regular-expression/
         String regex = "^\\+27[0-9]{9}$";
         return cellNumber.matches(regex);
     } 

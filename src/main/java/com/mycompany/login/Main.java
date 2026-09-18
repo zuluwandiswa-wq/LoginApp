@@ -6,7 +6,7 @@ package com.mycompany.login;
 
 /**
  *
- * @author zuluw
+ * @author zuluwandiswa
  */
         public class Main {
         public static void main(String[] args) {
