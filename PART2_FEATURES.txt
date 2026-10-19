@@ -1,0 +1,2 @@
+- Send Message - Disregard Message - Store Message to JSON
+Docs: Documented messaging features
