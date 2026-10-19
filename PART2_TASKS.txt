@@ -1,0 +1,1 @@
+- Created Message class - Added JSON storage - Added JUnit tests
