@@ -1,0 +1,4 @@
+Run Main.java -> Choose Option 1 to send messages.
+
+
+Docs: Added Part 2 run instructions
