@@ -1,0 +1,2 @@
+ Ran MessageTest.java - All tests passed 100%
+Test: Documented Part 2 unit test results 
