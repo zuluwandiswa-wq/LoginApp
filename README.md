@@ -2,3 +2,5 @@
 This section adds the chat messaging functionality.
 
 Docs: Updated README for Part 2 
+
+Trigger GitHub Actions
